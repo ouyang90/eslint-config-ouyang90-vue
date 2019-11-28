@@ -128,7 +128,6 @@ module.exports = {
     "wrap-regex": 2,
     "arrow-parens": [2, "as-needed"],
     "generator-star-spacing": [2, "before"],
-
     "vue/html-indent": 0,
     "vue/this-in-template": [2, "never"],
     "vue/html-quotes": [
